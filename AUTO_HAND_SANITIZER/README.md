@@ -113,8 +113,8 @@ pip install platformio
 ### 📥 Bước 2: Clone project
 
 ```bash
-git clone https://github.com/Thanhtan2108/AUTO-HAND-SANITIZER.git
-cd AUTO-HAND-SANITIZER
+git clone https://github.com/Thanhtan2108/PROJECT-WITH-ARDUINO.git
+cd AUTO_HAND_SANITIZER
 ```
 
 ### 🔨 Bước 3: Build và upload
@@ -396,7 +396,7 @@ Chúng tôi rất hoan nghênh mọi đóng góp từ cộng đồng! Dưới đ
 1. **🔱 Fork project**
 
    ```bash
-   git clone https://github.com/Thanhtan2108/AUTO-HAND-SANITIZER.git
+   git clone https://github.com/Thanhtan2108/PROJECT-WITH-ARDUINO.git
    ```
 
 2. **🌿 Tạo feature branch**
@@ -463,29 +463,13 @@ Project này được phân phối dưới **MIT License**. Xem file [LICENSE](L
 | **📧 Email**   | [nthanhtan2004@gmail.com](mailto:nthanhtan2004@gmail.com) |
 | **🐙 GitHub**  | [@Thanhtan2108](https://github.com/Thanhtan2108)          |
 
-### 📍 Project Information
-
-| Thông tin          | Chi tiết                                                                           |
-| ------------------ | ---------------------------------------------------------------------------------- |
-| **🏠 Repository**  | [AUTO-HAND-SANITIZER](https://github.com/Thanhtan2108/AUTO-HAND-SANITIZER)         |
-| **📋 Issues**      | [Report Bug](https://github.com/Thanhtan2108/AUTO-HAND-SANITIZER/issues)           |
-| **💡 Discussions** | [Join Discussion](https://github.com/Thanhtan2108/AUTO-HAND-SANITIZER/discussions) |
-| **📚 Wiki**        | [Project Wiki](https://github.com/Thanhtan2108/AUTO-HAND-SANITIZER/wiki)           |
-
-### 🌟 Hỗ trợ
-
-- **📖 Documentation**: Xem phần [Troubleshooting](#-troubleshooting)
-- **🐛 Bug Report**: Tạo [Issue](https://github.com/Thanhtan2108/AUTO-HAND-SANITIZER/issues/new)
-- **💬 Questions**: Sử dụng [Discussions](https://github.com/Thanhtan2108/AUTO-HAND-SANITIZER/discussions)
-- **📧 Email**: Liên hệ trực tiếp qua email
-
 ---
 
 ## 📝 Changelog
 
-### 🚀 Version 2.0 (Current) - Production Ready
+### 🚀 Version 1.0 (Current) - Production Ready
 
-**📅 Release Date**: December 2024
+**📅 Release Date**: August 2025
 
 #### ✨ New Features
 
@@ -512,7 +496,7 @@ Project này được phân phối dưới **MIT License**. Xem file [LICENSE](L
 
 ### 📱 Version 1.0 - Basic Implementation
 
-**📅 Release Date**: November 2024
+**📅 Release Date**: August 2025
 
 #### ✨ Features
 
