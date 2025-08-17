@@ -52,16 +52,16 @@ Project này được phát triển với mục tiêu:
 
 ## ✨ Tính năng chính
 
-| Tính năng                    | Mô tả                                            | Trạng thái    |
-| ---------------------------- | ------------------------------------------------ | ------------- |
-| 🔍 **Phát hiện tay tự động** | HC-SR04 với khoảng cách điều chỉnh được (5-25cm) | ✅ Hoàn thành |
-| 🤖 **Kích hoạt servo**       | SG90 nhấn vòi bơm tự động                        | ✅ Hoàn thành |
-| 👆 **Manual override**       | Nút nhấn để kích hoạt thủ công                   | ✅ Hoàn thành |
-| 📺 **Hiển thị LCD**          | Thông tin khoảng cách, ngưỡng, trạng thái        | ✅ Hoàn thành |
-| 💧 **Cảm biến mức nước**     | Cảnh báo khi dung dịch gần hết                   | ✅ Hoàn thành |
-| 🔋 **Tiết kiệm pin**         | Sleep mode khi không hoạt động                   | ✅ Hoàn thành |
-| 🐛 **Debug qua Serial**      | Theo dõi hoạt động qua Serial Monitor            | ✅ Hoàn thành |
-| 🎛️ **Điều chỉnh ngưỡng**     | Potentiometer để tùy chỉnh khoảng cách           | ✅ Hoàn thành |
+| Tính năng                    | Mô tả                                            |
+| ---------------------------- | ------------------------------------------------ |
+| 🔍 **Phát hiện tay tự động** | HC-SR04 với khoảng cách điều chỉnh được (5-25cm) |
+| 🤖 **Kích hoạt servo**       | SG90 nhấn vòi bơm tự động                        |
+| 👆 **Manual override**       | Nút nhấn để kích hoạt thủ công                   |
+| 📺 **Hiển thị LCD**          | Thông tin khoảng cách, ngưỡng, trạng thái        |
+| 💧 **Cảm biến mức nước**     | Cảnh báo khi dung dịch gần hết                   |
+| 🔋 **Tiết kiệm pin**         | Sleep mode khi không hoạt động                   |
+| 🐛 **Debug qua Serial**      | Theo dõi hoạt động qua Serial Monitor            |
+| 🎛️ **Điều chỉnh ngưỡng**     | Potentiometer để tùy chỉnh khoảng cách           |
 
 ---
 
@@ -275,13 +275,13 @@ pio test -f test_basic
 
 ### 📊 Test coverage
 
-| Chức năng           | Test case                  | Trạng thái |
-| ------------------- | -------------------------- | ---------- |
-| **Constants**       | Kiểm tra hằng số cấu hình  | ✅         |
-| **Pin Assignment**  | Kiểm tra pin assignment    | ✅         |
-| **Distance Logic**  | Kiểm tra logic khoảng cách | ✅         |
-| **Servo Control**   | Kiểm tra điều khiển servo  | ✅         |
-| **Button Debounce** | Kiểm tra debounce button   | ✅         |
+| Chức năng           | Test case                  |
+| ------------------- | -------------------------- |
+| **Constants**       | Kiểm tra hằng số cấu hình  |
+| **Pin Assignment**  | Kiểm tra pin assignment    |
+| **Distance Logic**  | Kiểm tra logic khoảng cách |
+| **Servo Control**   | Kiểm tra điều khiển servo  |
+| **Button Debounce** | Kiểm tra debounce button   |
 
 ---
 
@@ -421,14 +421,14 @@ Chúng tôi rất hoan nghênh mọi đóng góp từ cộng đồng! Dưới đ
 
 ### 🎯 Các lĩnh vực cần đóng góp
 
-| Lĩnh vực             | Mô tả                               | Trạng thái |
-| -------------------- | ----------------------------------- | ---------- |
-| **🖥️ Code**          | Cải thiện logic, tối ưu hiệu suất   | 🔄         |
-| **📚 Documentation** | Cải thiện tài liệu, hướng dẫn       | 🔄         |
-| **🧪 Testing**       | Thêm test cases, cải thiện coverage | 🔄         |
-| **🎨 UI/UX**         | Cải thiện giao diện LCD             | 🔄         |
-| **🔧 Hardware**      | Tối ưu mạch điện, PCB               | 🔄         |
-| **🌐 Localization**  | Đa ngôn ngữ                         | 🔄         |
+| Lĩnh vực             | Mô tả                               |
+| -------------------- | ----------------------------------- |
+| **🖥️ Code**          | Cải thiện logic, tối ưu hiệu suất   |
+| **📚 Documentation** | Cải thiện tài liệu, hướng dẫn       |
+| **🧪 Testing**       | Thêm test cases, cải thiện coverage |
+| **🎨 UI/UX**         | Cải thiện giao diện LCD             |
+| **🔧 Hardware**      | Tối ưu mạch điện, PCB               |
+| **🌐 Localization**  | Đa ngôn ngữ                         |
 
 ### 📝 Guidelines
 
@@ -541,16 +541,6 @@ Project này được phân phối dưới **MIT License**. Xem file [LICENSE](L
 
 ---
 
-## 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/Thanhtan2108/AUTO-HAND-SANITIZER)
-![GitHub forks](https://img.shields.io/github/forks/Thanhtan2108/AUTO-HAND-SANITIZER)
-![GitHub issues](https://img.shields.io/github/issues/Thanhtan2108/AUTO-HAND-SANITIZER)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Thanhtan2108/AUTO-HAND-SANITIZER)
-![GitHub license](https://img.shields.io/github/license/Thanhtan2108/AUTO-HAND-SANITIZER)
-
----
-
 🌟 **Nếu project này hữu ích, hãy cho chúng tôi một ⭐ Star!** 🌟
 
 🚀 **Hãy cùng nhau xây dựng một cộng đồng IoT mạnh mẽ!** 🚀
@@ -559,6 +549,6 @@ Project này được phân phối dưới **MIT License**. Xem file [LICENSE](L
 
 **⚠️ Disclaimer**: Đây là project giáo dục và thực nghiệm. Sử dụng trong môi trường thực tế cần kiểm tra kỹ lưỡng về an toàn và hiệu quả. Tác giả không chịu trách nhiệm về bất kỳ thiệt hại nào có thể xảy ra.
 
-📝 **Last Updated**: December 2024
-🔄 **Version**: 2.0
+📝 **Last Updated**: August 2025
+🔄 **Version**: 1.0
 📋 **Status**: Production Ready
