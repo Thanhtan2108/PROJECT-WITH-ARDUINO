@@ -534,7 +534,7 @@ Project này được phân phối dưới **MIT License**. Xem file [LICENSE](L
 
 ### 📚 References
 
-- [Arduino Official Documentation](https://docs.arduino.cc/)
+- [PlatformIO Official Documentation](https://docs.platformio.org/en/latest/)
 - [HC-SR04 Datasheet](https://www.mouser.com/datasheet/2/813/HCSR04-1022824.pdf)
 - [SG90 Servo Datasheet](https://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
 - [ATmega328P Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
