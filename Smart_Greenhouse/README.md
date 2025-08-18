@@ -70,9 +70,9 @@ Trong nông nghiệp hiện đại, việc duy trì môi trường trồng cây 
 - **Cảm biến YL-69** - Đo độ ẩm đất
 - **Cảm biến BH1750** - Đo cường độ ánh sáng
 - **LCD I2C 16x2** - Hiển thị thông tin
-- **Quạt thông gió** với MOSFET/Relay điều khiển
-- **Bơm nước** với MOSFET/Relay điều khiển
-- **Đèn LED trồng cây** với MOSFET/Relay điều khiển
+- **Quạt thông gió** với Relay điều khiển
+- **Bơm nước** với Relay điều khiển
+- **Đèn LED trồng cây** với Relay điều khiển
 - **Breadboard và dây kết nối**
 - **Nguồn cung cấp 5V cho Arduino, 3.3V cho cảm biến, 12V cho bơm**
 
