@@ -1,6 +1,6 @@
 # 🚿 Auto Hand Sanitizer - Máy Rửa Tay Tự Động
 
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/Thanhtan2108/AUTOMATIC-DISPENSER/releases)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/Thanhtan2108/AUTOMATIC-DISPENSER/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg)](https://github.com/Thanhtan2108/AUTOMATIC-DISPENSER)
 [![Platform](https://img.shields.io/badge/platform-Arduino%20Uno-orange.svg)](https://www.arduino.cc/)
