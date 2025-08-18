@@ -407,7 +407,7 @@ We welcome contributions to improve this project! Please follow these guidelines
 ```bash
 # Fork and clone
 git clone https://github.com/Thanhtan2108/PROJECT-WITH-ARDUINO.git
-cd PROJECT-WITH-ARDUINO/
+cd PROJECT-WITH-ARDUINO/AUTOMATIC_WHEELCHAIR_CHAIR_CONTROLLED_BY_BODY_GESTURES
 
 # Install dependencies
 pio lib install "adafruit/Adafruit MPU6050@^2.2.6"
